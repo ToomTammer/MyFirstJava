@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">myfirstapp</string>
+    <string name="thai">Thai</string>
+    <string name="itemThai">Thai</string>
+    <string name="itemEnglish">English</string>
+    <string name="here_is_sub_activity_1">Here is Sub-activity 1</string>
+    <string name="subac1">SubAc1</string>
+    <string name="here_is_sub_activity_2">Here is Sub-activity 2</string>
+</resources>
